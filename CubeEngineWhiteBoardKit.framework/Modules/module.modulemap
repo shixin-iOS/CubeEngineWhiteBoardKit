@@ -1,0 +1,6 @@
+framework module CubeEngineWhiteBoardKit {
+  umbrella header "CubeEngineWhiteBoardKit.h"
+
+  export *
+  module * { export * }
+}
